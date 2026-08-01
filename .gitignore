@@ -1,0 +1,12 @@
+.env
+
+docker/mysql_data/
+
+venv/
+.venv/
+__pycache__/
+*.class
+target/
+
+.vscode/
+.idea/
